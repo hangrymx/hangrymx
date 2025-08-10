@@ -32,8 +32,9 @@ I’m a creative developer passionate about crafting clean, user‑friendly inte
 
 Open to working on frontend projects, UI/UX design, and social media marketing campaigns.
 
-* Email: `prashant@example.com` (replace with your contact)
-* LinkedIn: `linkedin.com/in/prashant-bhusal` (update if you have one)
+* Email: bhusalprashant206@gmail.com
+* LinkedIn: linkedin.com/in/prashant-bhusal
+* Whatsapp:+977-9709060751
 
 ## 📫 How to reach me
 
