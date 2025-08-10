@@ -32,13 +32,13 @@ I’m a creative developer passionate about crafting clean, user‑friendly inte
 
 Open to working on frontend projects, UI/UX design, and social media marketing campaigns.
 
-* Email: bhusalprashant206@gmail.com
-* LinkedIn: linkedin.com/in/prashant-bhusal
-* Whatsapp:+977-9709060751
 
 ## 📫 How to reach me
 
 Message me through GitHub issues or connect via email/LinkedIn.
+* Email: bhusalprashant206@gmail.com
+* LinkedIn: linkedin.com/in/prashant-bhusal
+* Whatsapp: +977-970906075
 
 ---
 
